@@ -31,7 +31,7 @@ const store = createStore({
       },
   },
   actions: {
-    checkWin
+
   },
   getters: {
     value: (state) => state.value,
